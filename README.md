@@ -1,5 +1,6 @@
 ## Pratyush Tripathy
 PhD Student <br/>
+NASA FINESST Future Investigator <br/>
 Department of Geography <br/>
 University of California, Santa Barbara <br/>
 pratkrt@gmail.com, ptripathy@ucsb.edu <br/>
@@ -7,10 +8,8 @@ pratkrt@gmail.com, ptripathy@ucsb.edu <br/>
 ---
 
 ### Research interests:
+- combining AI with geospatial datasets
+- causal analysis for environmental impact assessment
 - extreme weather events and vulnerability
-- population disaggregation and prediction
-- impact of climate change on development outcomes
 - remote sensing, spatial analysis, novel open-source methods
-- urban analysis, 3D modelling, growth modelling
-
 ---
